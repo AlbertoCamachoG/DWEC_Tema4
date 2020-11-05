@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+    margin-left:100px;
+    background:linear-gradient(0deg, #13a8bf 25%, #63b9db 25%, #63b9db 50%, #13a8bf 50%, #13a8bf 75%, #63b9db 75%, #63b9db 100%);
+    background-size:10px 10px;
+    padding:0px;
+}
+#div{
+    width:100%;
+    margin:0px;
+    padding-top:10px;
+    height:100vmin;
+    background-color:#fffdd0;
+    padding-left:10px;
+}
+#tema{
+    background-color:white;
+    width:95%;
+    box-shadow:1px 1px 1px 1px;
+}
+#marco{
+    background-color:yellow;
+    border:solid black 1px;
+    width:90%;
+    padding:3px;
+}
